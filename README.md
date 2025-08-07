@@ -143,3 +143,5 @@ This gives a hands-on foundation in Python data analysis and prepares interns fo
 <img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/e51f9cf3-f3bc-4331-8f7d-cf6bd731fefd" />
 
 <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/66450d44-4e96-4eb3-8571-c87d92bd77de" />
+
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/28f0aaec-e092-4eff-9dec-238a60b1a9b8" />

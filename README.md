@@ -139,3 +139,5 @@ This gives a hands-on foundation in Python data analysis and prepares interns fo
 #OUTPUT
 
 <img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/a56df528-0a62-476b-acc6-62f0d99b9fe1" />
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/e51f9cf3-f3bc-4331-8f7d-cf6bd731fefd" />

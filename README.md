@@ -135,3 +135,7 @@ Structure a professional project
 Use Git and GitHub for version control and submission
 
 This gives a hands-on foundation in Python data analysis and prepares interns for more advanced topics like machine learning, automation, and dashboard building.
+
+#OUTPUT
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/a56df528-0a62-476b-acc6-62f0d99b9fe1" />
